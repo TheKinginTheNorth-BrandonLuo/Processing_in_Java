@@ -1,5 +1,3 @@
-# Racing Cars
+# Processing with Javaa
 
-This is a a Processing assignment.  The 
-files you should edit are `RaceCars\Car.pde` 
-and `RaceCars\RaceCars.pde`.
+
